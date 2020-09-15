@@ -1,0 +1,11 @@
+*
+*/**
+!out/src/**/*.js
+!out/src/**/*.json
+!snippets
+!images/**/*
+!README.md
+!package.json
+!CHANGELOG.md
+!LICENSE.txt
+!node_modules/balanced-match/**/*

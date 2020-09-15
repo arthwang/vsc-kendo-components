@@ -1,0 +1,92 @@
+{
+  "name": "vsc-kendo-components",
+  "displayName": "VSC-Kendo-Components",
+  "description": "Support for web component attribute completions of kendo ui for jquery",
+  "version": "0.2.0",
+  "publisher": "arthurwang",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.15.0"
+  },
+  "categories": [
+    "Programming Languages",
+    "Other"
+  ],
+  "keywords": [
+    "html",
+    "kendo",
+    "kendo-ui",
+    "component",
+    "snippet"
+  ],
+  "author": {
+    "name": "Arthur Wang",
+    "email": "rthrwang@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/arthurwang9/vsc-kendo-components.git"
+  },
+  "bugs": {
+    "email": "rthrwang@gmail.com"
+  },
+  "main": "./out/src/extension",
+  "activationEvents": [
+    "onLanguage:html"
+  ],
+  "contributes": {
+    "languages": [
+      {
+        "id": "html",
+        "aliases": [
+          "htm"
+        ],
+        "extensions": [
+          ".html",
+          ".htm"
+        ]
+      }
+    ],
+    "grammars": [
+      {
+        "injectTo": [
+          "text.html.derivative"
+        ],
+        "scopeName": "html.quotedjs",
+        "path": "./syntaxes/quotedjs.json"
+      },
+      {
+        "injectTo": [
+          "text.html.derivative"
+        ],
+        "scopeName": "html.template",
+        "path": "./syntaxes/tmplhtml.json"
+      }
+    ],
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/kendoui.json"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "tsc -p ./",
+    "compile": "tsc -watch -p ./",
+    "postinstall": "node ./node_modules/vscode/bin/install",
+    "pkgvars": "node ./node_modules/vscode/bin/install"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.3.6",
+    "@types/kendo-ui": "^2018.3.0",
+    "@types/node": "^10.9.4",
+    "typescript": "^3.0.3",
+    "vscode": "^1.1.21"
+  },
+  "dependencies": {
+    "balanced-match": "^1.0.0",
+    "interval-promise": "^1.2.0",
+    "os": "^0.1.1",
+    "path": "^0.12.7"
+  }
+}

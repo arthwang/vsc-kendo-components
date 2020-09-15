@@ -1,0 +1,447 @@
+{
+  "Alert": {
+    "body":"<k-alert$0><\/k-alert>",
+    "description":"notfound",
+    "prefix":"<k-alert"
+  },
+  "ArcGauge": {
+    "body":"<k-arc-gauge$0><\/k-arc-gauge>",
+    "description":"The Kendo UI Arc Gauge widget displays a value range which is represented by an arc.",
+    "prefix":"<k-arc-gauge"
+  },
+  "AutoComplete": {
+    "body":"<k-auto-complete$0><\/k-auto-complete>",
+    "description":"The Kendo UI AutoComplete widget provides suggestions depending on the typed text.",
+    "prefix":"<k-auto-complete"
+  },
+  "Barcode": {
+    "body":"<k-barcode$0><\/k-barcode>",
+    "description":"The Kendo UI Barcode widget is used to represent data in a machine-readable format.",
+    "prefix":"<k-barcode"
+  },
+  "Button": {
+    "body":"<k-button$0><\/k-button>",
+    "description":"The Kendo UI Button widget provides a styled clickable UI functionality with arbitrary content. Apart from consistent Kendo UI styling, the Button provides keyboard operability for elements, which natively do not have it (e.g., span).",
+    "prefix":"<k-button"
+  },
+  "ButtonGroup": {
+    "body":"<k-button-group$0><\/k-button-group>",
+    "description":"The Kendo UI ButtonGroup widget groups a series of buttons together on a single line.",
+    "prefix":"<k-button-group"
+  },
+  "Calendar": {
+    "body":"<k-calendar$0><\/k-calendar>",
+    "description":"The Kendo UI Calendar widget renders a graphical calendar that provides navigation and selection functionalities.",
+    "prefix":"<k-calendar"
+  },
+  "Chart": {
+    "body":"<k-chart$0><\/k-chart>",
+    "description":"notfound",
+    "prefix":"<k-chart"
+  },
+  "Chat": {
+    "body":"<k-chat$0><\/k-chat>",
+    "description":"The Kendo UI Chat widget allows the user to participate in chat sessions with other users or with chat bots.",
+    "prefix":"<k-chat"
+  },
+  "ColorPalette": {
+    "body":"<k-color-palette$0><\/k-color-palette>",
+    "description":"notfound",
+    "prefix":"<k-color-palette"
+  },
+  "ColorPicker": {
+    "body":"<k-color-picker$0><\/k-color-picker>",
+    "description":"The Kendo UI ColorPicker widget is a drop-down widget for selecting colors.",
+    "prefix":"<k-color-picker"
+  },
+  "ComboBox": {
+    "body":"<k-combo-box$0><\/k-combo-box>",
+    "description":"The Kendo UI ComboBox widget displays a list of values and allows for a single selection from that list.",
+    "prefix":"<k-combo-box"
+  },
+  "Confirm": {
+    "body":"<k-confirm$0><\/k-confirm>",
+    "description":"notfound",
+    "prefix":"<k-confirm"
+  },
+  "ContextMenu": {
+    "body":"<k-context-menu$0><\/k-context-menu>",
+    "description":"notfound",
+    "prefix":"<k-context-menu"
+  },
+  "DateInput": {
+    "body":"<k-date-input$0><\/k-date-input>",
+    "description":"The Kendo UI DateInput widget allows users to enter date and time through direct input.",
+    "prefix":"<k-date-input"
+  },
+  "DatePicker": {
+    "body":"<k-date-picker$0><\/k-date-picker>",
+    "description":"The Kendo UI DatePicker widget allows the user to select a date from a calendar or through a direct input.",
+    "prefix":"<k-date-picker"
+  },
+  "DateTimePicker": {
+    "body":"<k-date-time-picker$0><\/k-date-time-picker>",
+    "description":"The Kendo UI DateTimePicker widget allows the user to select a value from a calendar, a time drop-down list, or through direct input.",
+    "prefix":"<k-date-time-picker"
+  },
+  "Diagram": {
+    "body":"<k-diagram$0><\/k-diagram>",
+    "description":"notfound",
+    "prefix":"<k-diagram"
+  },
+  "Dialog": {
+    "body":"<k-dialog$0><\/k-dialog>",
+    "description":"The Kendo UI Dialog widget is a modal popup that brings information to the user. It also provides actions through its action buttons to prompt the user for input or to ask for a decision. The component can also contain more complex UI elements that require the focus of the user. The Dialog widget is a subset of the Kendo UI Window widget where the most prominent difference is the added functionality for actions and predefined dialogs.",
+    "prefix":"<k-dialog"
+  },
+  "Draggable": {
+    "body":"<k-draggable$0><\/k-draggable>",
+    "description":"notfound",
+    "prefix":"<k-draggable"
+  },
+  "DropDownList": {
+    "body":"<k-drop-down-list$0><\/k-drop-down-list>",
+    "description":"The Kendo UI DropDownList widget displays a list of values and allows for a single selection from the list.",
+    "prefix":"<k-drop-down-list"
+  },
+  "DropDownTree": {
+    "body":"<k-drop-down-tree$0><\/k-drop-down-tree>",
+    "description":"As of the Kendo UI R2 2018, the DropDownTree is available in the Kendo UI for jQuery suite.",
+    "prefix":"<k-drop-down-tree"
+  },
+  "DropTarget": {
+    "body":"<k-drop-target$0><\/k-drop-target>",
+    "description":"notfound",
+    "prefix":"<k-drop-target"
+  },
+  "DropTargetArea": {
+    "body":"<k-drop-target-area$0><\/k-drop-target-area>",
+    "description":"notfound",
+    "prefix":"<k-drop-target-area"
+  },
+  "Editor": {
+    "body":"<k-editor$0><\/k-editor>",
+    "description":"The Kendo UI Editor widget allows you to create rich textual content through a What-You-See-Is-What-You-Get (WYSIWYG) interface.",
+    "prefix":"<k-editor"
+  },
+  "FilterMenu": {
+    "body":"<k-filter-menu$0><\/k-filter-menu>",
+    "description":"notfound",
+    "prefix":"<k-filter-menu"
+  },
+  "FlatColorPicker": {
+    "body":"<k-flat-color-picker$0><\/k-flat-color-picker>",
+    "description":"notfound",
+    "prefix":"<k-flat-color-picker"
+  },
+  "Gantt": {
+    "body":"<k-gantt$0><\/k-gantt>",
+    "description":"The Kendo UI Gantt widget displays a set of tasks and dependencies, which are used to visualize project planning data. The widget provides a TreeList section where the tasks can be edited, sorted and reordered in a grid-like fashion, as well as a Timeline section, where the tasks and dependencies are visualized under an adjustable time ruler, and can be resized, moved, edited and removed. It can also display the Timeline in three different views – day, week and month.",
+    "prefix":"<k-gantt"
+  },
+  "Grid": {
+    "body":"<k-grid$0><\/k-grid>",
+    "description":"The Kendo UI Grid widget is a powerful control for displaying data in a tabular format. It provides many options, such as paging, sorting, filtering, grouping, and editing, which determine the way data is presented and manipulated. The Grid can be bound to local or remote data by using the Kendo UI DataSource component.",
+    "prefix":"<k-grid"
+  },
+  "LinearGauge": {
+    "body":"<k-linear-gauge$0><\/k-linear-gauge>",
+    "description":"The Kendo UI Linear Gauge widget enables users to quickly understand in what certain range a value lies.",
+    "prefix":"<k-linear-gauge"
+  },
+  "ListBox": {
+    "body":"<k-list-box$0><\/k-list-box>",
+    "description":"The Kendo UI ListBox widget displays a list of data that is contained in a box.",
+    "prefix":"<k-list-box"
+  },
+  "ListView": {
+    "body":"<k-list-view$0><\/k-list-view>",
+    "description":"The Kendo UI ListView widget enables you to specify a custom type of layout for the items that are displayed in the control.",
+    "prefix":"<k-list-view"
+  },
+  "Map": {
+    "body":"<k-map$0><\/k-map>",
+    "description":"notfound",
+    "prefix":"<k-map"
+  },
+  "MaskedTextBox": {
+    "body":"<k-masked-text-box$0><\/k-masked-text-box>",
+    "description":"The Kendo UI MaskedTextBox widget enables a controlled text input that is based on a specific format.",
+    "prefix":"<k-masked-text-box"
+  },
+  "MediaPlayer": {
+    "body":"<k-media-player$0><\/k-media-player>",
+    "description":"The Kendo UI MediaPlayer widget plays video files from static sources or streams online YouTube videos and enriches your website with dynamic content in a user-friendly interface. It provides a styled video UI functionality by using the HTML5 <video> element and brings powerful media capabilities to your applications without the necessity of installing additional plug-ins.",
+    "prefix":"<k-media-player"
+  },
+  "Menu": {
+    "body":"<k-menu$0><\/k-menu>",
+    "description":"The Kendo UI Menu widget displays hierarchical data as a multi-level menu. It provides rich styling for unordered lists of items, and can be used for both navigation and executing JavaScript commands. Items can be defined and initialized from HTML, or through the configuration options. Kendo UI Menu API can be used to add and remove items.",
+    "prefix":"<k-menu"
+  },
+  "MobileActionSheet": {
+    "body":"<km-action-sheet$0><\/km-action-sheet>",
+    "description":"The Hybrid UI ActionSheet widget displays a set of choices related to a task the user initiates.",
+    "prefix":"<km-action-sheet"
+  },
+  "MobileBackButton": {
+    "body":"<km-back-button$0><\/km-back-button>",
+    "description":"notfound",
+    "prefix":"<km-back-button"
+  },
+  "MobileButton": {
+    "body":"<km-button$0><\/km-button>",
+    "description":"The Hybrid UI Button widget navigates to a mobile View or executes a custom callback when tapped.",
+    "prefix":"<km-button"
+  },
+  "MobileButtonGroup": {
+    "body":"<km-button-group$0><\/km-button-group>",
+    "description":"The Hybrid UI ButtonGroup widget presents a linear set of grouped buttons.",
+    "prefix":"<km-button-group"
+  },
+  "MobileCollapsible": {
+    "body":"<km-collapsible$0><\/km-collapsible>",
+    "description":"The Hybrid UI Collapsible widget allows you to create collapsible blocks of content.",
+    "prefix":"<km-collapsible"
+  },
+  "MobileDetailButton": {
+    "body":"<km-detail-button$0><\/km-detail-button>",
+    "description":"notfound",
+    "prefix":"<km-detail-button"
+  },
+  "MobileDrawer": {
+    "body":"<km-drawer$0><\/km-drawer>",
+    "description":"The Hybrid UI Drawer widget provides a slide to reveal the global mobile application toolbox or navigation.",
+    "prefix":"<km-drawer"
+  },
+  "MobileLayout": {
+    "body":"<km-layout$0><\/km-layout>",
+    "description":"notfound",
+    "prefix":"<km-layout"
+  },
+  "MobileListView": {
+    "body":"<km-list-view$0><\/km-list-view>",
+    "description":"notfound",
+    "prefix":"<km-list-view"
+  },
+  "MobileLoader": {
+    "body":"<km-loader$0><\/km-loader>",
+    "description":"notfound",
+    "prefix":"<km-loader"
+  },
+  "MobileModalView": {
+    "body":"<km-modal-view$0><\/km-modal-view>",
+    "description":"The Hybrid UI ModalView widget is used to present a self-contained functionality in the context of the current task.",
+    "prefix":"<km-modal-view"
+  },
+  "MobileNavBar": {
+    "body":"<km-nav-bar$0><\/km-nav-bar>",
+    "description":"The Hybrid UI NavBar widget is used inside a mobile View or Layout header element to display an application navigation bar. The mobile NavBar may display the current view title in the center, and optionally some additional left- and right-aligned widgets—a back button, settings button, etc.",
+    "prefix":"<km-nav-bar"
+  },
+  "MobilePane": {
+    "body":"<km-pane$0><\/km-pane>",
+    "description":"The Hybrid UI Pane widget groups one or more mobile views within the main view application. The mobile SplitView widget allows a side by-side display of several panes. The mobile PopOver automatically instantiates a mobile Pane widget for its contents.",
+    "prefix":"<km-pane"
+  },
+  "MobilePopOver": {
+    "body":"<km-pop-over$0><\/km-pop-over>",
+    "description":"The Hybrid UI PopOver widget represents a transient view which is displayed when the user taps on a navigational widget or area on the screen. It can contain one or more mobile views which can be navigated to, if needed.",
+    "prefix":"<km-pop-over"
+  },
+  "MobileScrollView": {
+    "body":"<km-scroll-view$0><\/km-scroll-view>",
+    "description":"notfound",
+    "prefix":"<km-scroll-view"
+  },
+  "MobileScroller": {
+    "body":"<km-scroller$0><\/km-scroller>",
+    "description":"The Hybrid UI Scroller widget enables touch-friendly kinetic scrolling for the contents of a given DOM element.",
+    "prefix":"<km-scroller"
+  },
+  "MobileSplitView": {
+    "body":"<km-split-view$0><\/km-split-view>",
+    "description":"The Hybrid UI SplitView widget is a tablet-specific view that consists of two or more mobile Pane widgets.",
+    "prefix":"<km-split-view"
+  },
+  "MobileSwitch": {
+    "body":"<km-switch$0><\/km-switch>",
+    "description":"The Hybrid UI Switch widget is used to display two exclusive choices.",
+    "prefix":"<km-switch"
+  },
+  "MobileTabStrip": {
+    "body":"<km-tab-strip$0><\/km-tab-strip>",
+    "description":"The Hybrid UI TabStrip widget is used inside a mobile view or layout footer element to display an application-wide group of navigation buttons. The look of the Hybrid UI TabStrip changes depending on the user mobile device and operating system.",
+    "prefix":"<km-tab-strip"
+  },
+  "MobileView": {
+    "body":"<km-view$0><\/km-view>",
+    "description":"The Hybrid UI View widget represents a screen in the kendo mobile Application. The Application automatically instantiates a mobile View for each element with a role data attribute set to view.",
+    "prefix":"<km-view"
+  },
+  "MultiColumnComboBox": {
+    "body":"<k-multi-column-combo-box$0><\/k-multi-column-combo-box>",
+    "description":"As of the Kendo UI R3 2018, the MultiColumnComboBox is available in the Kendo UI for jQuery suite.\nThe main purpose of the widget is to visualize a big set of data in a grid-like table.",
+    "prefix":"<k-multi-column-combo-box"
+  },
+  "MultiSelect": {
+    "body":"<k-multi-select$0><\/k-multi-select>",
+    "description":"The Kendo UI MultiSelect widget displays a list of options and allows multiple selections from this list.",
+    "prefix":"<k-multi-select"
+  },
+  "Notification": {
+    "body":"<k-notification$0><\/k-notification>",
+    "description":"The Kendo UI Notification widget provides a styled UI widget with arbitrary content, which can provide information to the user on various occasions.",
+    "prefix":"<k-notification"
+  },
+  "NumericTextBox": {
+    "body":"<k-numeric-text-box$0><\/k-numeric-text-box>",
+    "description":"The Kendo UI NumericTextBox widget converts an <input> element into a numeric, percentage, or currency textbox.",
+    "prefix":"<k-numeric-text-box"
+  },
+  "Pager": {
+    "body":"<k-pager$0><\/k-pager>",
+    "description":"notfound",
+    "prefix":"<k-pager"
+  },
+  "PanelBar": {
+    "body":"<k-panel-bar$0><\/k-panel-bar>",
+    "description":"The Kendo UI PanelBar widget displays hierarchical data as a multi-level, expandable widget.",
+    "prefix":"<k-panel-bar"
+  },
+  "PivotConfigurator": {
+    "body":"<k-pivot-configurator$0><\/k-pivot-configurator>",
+    "description":"notfound",
+    "prefix":"<k-pivot-configurator"
+  },
+  "PivotGrid": {
+    "body":"<k-pivot-grid$0><\/k-pivot-grid>",
+    "description":"The Kendo UI PivotGrid widget represents multidimensional data in a cross-tabular format.",
+    "prefix":"<k-pivot-grid"
+  },
+  "Popup": {
+    "body":"<k-popup$0><\/k-popup>",
+    "description":"The Kendo UI Popup widget positions content next to a specific anchor.",
+    "prefix":"<k-popup"
+  },
+  "ProgressBar": {
+    "body":"<k-progress-bar$0><\/k-progress-bar>",
+    "description":"The Kendo UI ProgressBar widget offers rich functionalities for displaying and tracking the progress of a task. It supports multiple types, horizontal and vertical orientation, and also different directions.",
+    "prefix":"<k-progress-bar"
+  },
+  "Prompt": {
+    "body":"<k-prompt$0><\/k-prompt>",
+    "description":"notfound",
+    "prefix":"<k-prompt"
+  },
+  "QRCode": {
+    "body":"<k-qrcode$0><\/k-qrcode>",
+    "description":"The Kendo UI QRCode widget helps you easily generate Canvas and Scalable Vector Graphics (SVG) images that represent QR (Quick Response) codes.",
+    "prefix":"<k-qrcode"
+  },
+  "RadialGauge": {
+    "body":"<k-radial-gauge$0><\/k-radial-gauge>",
+    "description":"The Kendo UI Radial Gauge widget enables users to quickly understand in what certain range a value lies.",
+    "prefix":"<k-radial-gauge"
+  },
+  "RangeSlider": {
+    "body":"<k-range-slider$0><\/k-range-slider>",
+    "description":"The Kendo UI RangeSlider widget displays a range of values and allows you to select ranges of values.",
+    "prefix":"<k-range-slider"
+  },
+  "ResponsivePanel": {
+    "body":"<k-responsive-panel$0><\/k-responsive-panel>",
+    "description":"The Kendo UI ResponsivePanel widget allows you to hide part of a page content on small screens. This allows more space for content on mobile screens.",
+    "prefix":"<k-responsive-panel"
+  },
+  "Scheduler": {
+    "body":"<k-scheduler$0><\/k-scheduler>",
+    "description":"The Kendo UI Scheduler widget displays a set of events—appointments or tasks.",
+    "prefix":"<k-scheduler"
+  },
+  "Slider": {
+    "body":"<k-slider$0><\/k-slider>",
+    "description":"The Kendo UI Slider widget provides a rich input for selecting numeric values.",
+    "prefix":"<k-slider"
+  },
+  "Sortable": {
+    "body":"<k-sortable$0><\/k-sortable>",
+    "description":"The Kendo UI Sortable widget makes a group of DOM elements sortable by dragging and dropping with a mouse or a finger.",
+    "prefix":"<k-sortable"
+  },
+  "Sparkline": {
+    "body":"<k-sparkline$0><\/k-sparkline>",
+    "description":"The Kendo UI Sparklines widget is a very small chart, drawn without axes, coordinates, legends, titles or other chart-specific elements. It behaves like an inline element, as it is rendered inside a span, as opposed to the standard Kendo UI Charts, which behave like block elements, as they are rendered inside div elements, so that it can be easily embedded in text.",
+    "prefix":"<k-sparkline"
+  },
+  "Splitter": {
+    "body":"<k-splitter$0><\/k-splitter>",
+    "description":"The Kendo UI Splitter widget provides a dynamic layout of resizeable and collapsible panes. It converts the children of an HTML element into an interactive layout, adding resize and collapse handles depending on its configuration. The vertical and horizontal orientation of a Kendo UI Splitter can be combined to build complex layouts.",
+    "prefix":"<k-splitter"
+  },
+  "Spreadsheet": {
+    "body":"<k-spreadsheet$0><\/k-spreadsheet>",
+    "description":"The Kendo UI Spreadsheet widget enables you to edit and visualize tabular data by using cell formatting options, styles, and themes.",
+    "prefix":"<k-spreadsheet"
+  },
+  "StockChart": {
+    "body":"<k-stock-chart$0><\/k-stock-chart>",
+    "description":"The Kendo UI Stock Chart widget is a specialized control visualizing the price movement of any financial instrument over a certain period of time. It includes extensive touch support and a navigator pane for easy browsing of extended time periods. Generally, the Stock Chart extends the Kendo UI Chart widget and shares most of its features.",
+    "prefix":"<k-stock-chart"
+  },
+  "TabStrip": {
+    "body":"<k-tab-strip$0><\/k-tab-strip>",
+    "description":"The Kendo UI TabStrip widget displays a collection of tabs with associated content. It is composed of an unordered list of items, representing tabs, and a collection of div elements, which contain the content for each tab.",
+    "prefix":"<k-tab-strip"
+  },
+  "TimePicker": {
+    "body":"<k-time-picker$0><\/k-time-picker>",
+    "description":"The Kendo UI TimePicker widget enables users to select time values from a predefined list or enter new ones.",
+    "prefix":"<k-time-picker"
+  },
+  "ToolBar": {
+    "body":"<k-tool-bar$0><\/k-tool-bar>",
+    "description":"The Kendo UI ToolBar widget is designed to hold different types of controls such as buttons, button groups, toggle buttons, split buttons, and other customized elements.",
+    "prefix":"<k-tool-bar"
+  },
+  "Tooltip": {
+    "body":"<k-tooltip$0><\/k-tooltip>",
+    "description":"The Kendo UI Tooltip widget displays a popup hint for a given html element. Its content can be defined either as static text, or loaded dynamically via AJAX.",
+    "prefix":"<k-tooltip"
+  },
+  "Touch": {
+    "body":"<k-touch$0><\/k-touch>",
+    "description":"notfound",
+    "prefix":"<k-touch"
+  },
+  "TreeList": {
+    "body":"<k-tree-list$0><\/k-tree-list>",
+    "description":"The Kendo UI TreeList widget enables the display of self-referencing tabular data and allows sorting, filtering, and data editing.",
+    "prefix":"<k-tree-list"
+  },
+  "TreeMap": {
+    "body":"<k-tree-map$0><\/k-tree-map>",
+    "description":"The Kendo UI TreeMap widget displays hierarchical data in a traditional tree structure. It also support different rendering types such us Squarified, Vertical and Horizontal(slice and dice algorithm).",
+    "prefix":"<k-tree-map"
+  },
+  "TreeView": {
+    "body":"<k-tree-view$0><\/k-tree-view>",
+    "description":"The Kendo UI TreeView widget displays hierarchical data in a traditional tree structure.",
+    "prefix":"<k-tree-view"
+  },
+  "Upload": {
+    "body":"<k-upload$0><\/k-upload>",
+    "description":"The Kendo UI Upload widget uses progressive enhancement to deliver the best possible uploading experience to users, without requiring extra developer effort.",
+    "prefix":"<k-upload"
+  },
+  "Validator": {
+    "body":"<k-validator$0><\/k-validator>",
+    "description":"The Kendo UI Validator widget offers an easy way to do client-side form validation.",
+    "prefix":"<k-validator"
+  },
+  "Window": {
+    "body":"<k-window$0><\/k-window>",
+    "description":"The Kendo UI Window widget displays content in a modal or non-modal HTML window. By default, a Window can be moved, resized, and closed. Its content can also be defined with either as static HTML, or dynamically loaded via AJAX.",
+    "prefix":"<k-window"
+  }
+}

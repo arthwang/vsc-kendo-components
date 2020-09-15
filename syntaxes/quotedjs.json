@@ -1,0 +1,19 @@
+{
+  "fileTypes": [],
+  "scopeName": "html.quotedjs",
+  "injectionSelector": "meta.tag.custom.start.html string.quoted.single.html,meta.tag.custom.start.html string.quoted.double.html",
+  "patterns": [
+    {
+      "include": "source.ts#function-declaration"
+    },
+    {
+      "include": "source.ts#function-call"
+    },
+    {
+      "include": "source.ts#object-literal"
+    },
+    {
+      "include": "source.ts#array-literal"
+    }
+  ]
+}
